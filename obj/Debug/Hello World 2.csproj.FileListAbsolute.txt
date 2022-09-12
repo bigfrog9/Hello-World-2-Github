@@ -1,0 +1,8 @@
+C:\Users\W0462338\OneDrive - Nova Scotia Community College\Programming course\Hello World 2\Hello World 2\bin\Debug\Hello World 2.exe.config
+C:\Users\W0462338\OneDrive - Nova Scotia Community College\Programming course\Hello World 2\Hello World 2\bin\Debug\Hello World 2.exe
+C:\Users\W0462338\OneDrive - Nova Scotia Community College\Programming course\Hello World 2\Hello World 2\bin\Debug\Hello World 2.pdb
+C:\Users\W0462338\OneDrive - Nova Scotia Community College\Programming course\Hello World 2\Hello World 2\obj\Debug\Hello World 2.csproj.AssemblyReference.cache
+C:\Users\W0462338\OneDrive - Nova Scotia Community College\Programming course\Hello World 2\Hello World 2\obj\Debug\Hello World 2.csproj.SuggestedBindingRedirects.cache
+C:\Users\W0462338\OneDrive - Nova Scotia Community College\Programming course\Hello World 2\Hello World 2\obj\Debug\Hello World 2.csproj.CoreCompileInputs.cache
+C:\Users\W0462338\OneDrive - Nova Scotia Community College\Programming course\Hello World 2\Hello World 2\obj\Debug\Hello World 2.exe
+C:\Users\W0462338\OneDrive - Nova Scotia Community College\Programming course\Hello World 2\Hello World 2\obj\Debug\Hello World 2.pdb
